@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/MixinNetwork/bot-api-go-client"
+	"github.com/usmbest/bot-api-go-client"
 )
 
 const (

@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"math/rand"
 
-	"github.com/MixinNetwork/mixin/common"
+	"github.com/usmbest/mixin/common"
 )
 
 var nodes []string

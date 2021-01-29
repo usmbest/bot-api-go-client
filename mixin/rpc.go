@@ -10,8 +10,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/MixinNetwork/mixin/common"
-	"github.com/MixinNetwork/mixin/crypto"
+	"github.com/usmbest/mixin/common"
+	"github.com/usmbest/mixin/crypto"
 )
 
 var httpClient *http.Client

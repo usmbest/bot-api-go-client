@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/MixinNetwork/go-number"
+	"github.com/usmbest/go-number"
 )
 
 type WithdrawalInput struct {
